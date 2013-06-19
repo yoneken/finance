@@ -33,3 +33,9 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Real data
+*.csv
+
+#Mac OSX system file
+.DS_Store
